@@ -39,7 +39,7 @@ import com.baidu.duer.dcs.util.LogUtil;
 public class DcsSampleOAuthActivity extends Activity implements View.OnClickListener {
     // 需要开发者自己申请client_id
     // client_id，就是oauth的client_id
-    private static final String CLIENT_ID = "{{placeholder for your client_id}}";
+    private static final String CLIENT_ID = "ljXbtfBVl7axzRNZz26MW0XKY041jM8F";
     // 是否每次授权都强制登陆
     private boolean isForceLogin = false;
     // 是否每次都确认登陆
